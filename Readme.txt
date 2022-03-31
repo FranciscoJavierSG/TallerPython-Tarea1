@@ -1,3 +1,3 @@
-Aqui se encuntra el manual de instrucciones
+Aqui se ENCUNTRA el manual de instrucciones
 
 aaaaaaa
