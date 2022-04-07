@@ -10,7 +10,6 @@
 def opcion_1(nombre_libro):
 
     libro = open(nombre_libro, "rt", encoding="UTF-8")
-    print(type(libro))
 
     # Se retorna el puntero al inicio del archivo.
     libro.seek(0)
@@ -24,7 +23,6 @@ def opcion_1(nombre_libro):
     data = libro.read()
     palabras = data.split()
     print("Cantidad total de palabras:", len(palabras))
-    print(type(palabras))
 
     # Palabras no repetidas
     libro.seek(0)
