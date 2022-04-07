@@ -5,7 +5,7 @@ Para usar el programa, abra la terminal, acceda al directorio donde está el pro
 
 ```
 python Tarea.py
-
+```
 
 Al ejecutar el programa, se mostrará un menú con las opciones de libros disponibles.
 Usted debe seleccionar una opción, lo que mostrará otro menú en donde podrá:
