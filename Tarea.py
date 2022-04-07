@@ -122,7 +122,7 @@ while not salir:
         while not volver:
             print("Se seleccionó el libro 'El árbol de la colina'.")
             print("---------------------------------------------------------------------")
-            print("1. Entregar una estadística del documento")
+            print("1. Entregar las estadísticas del documento")
             print("2. Buscar una palabra en el documento y las veces que esta repetida")
             print("3. Reemplazar una palabra en el texto.")
             print("4. Volver al menú.")
@@ -131,7 +131,7 @@ while not salir:
 
             opcion = numero()
             if opcion == 1:
-                print("1. Entregar una estadística del documento: \n")
+                print("1. Entregar las estadísticas del documento: \n")
                 opcion_1(nombre_libro)
             elif opcion == 2:
                 print(
@@ -152,7 +152,7 @@ while not salir:
         while not volver:
             print("Se seleccionó el libro 'El caos reptante'.")
             print("---------------------------------------------------------------------")
-            print("1. Entregar una estadística del documento")
+            print("1. Entregar las estadísticas del documento")
             print("2. Buscar una palabra en el documento y las veces que esta repetida")
             print("3. Reemplazar una palabra en el texto.")
             print("4. Volver al menú.")
@@ -161,7 +161,7 @@ while not salir:
 
             opcion = numero()
             if opcion == 1:
-                print("1. Entregar una estadística del documento: \n")
+                print("1. Entregar las estadísticas del documento: \n")
                 opcion_1(nombre_libro)
             elif opcion == 2:
                 print(
@@ -182,7 +182,7 @@ while not salir:
         while not volver:
             print("Se seleccionó el libro 'En el mar remoto'.")
             print("---------------------------------------------------------------------")
-            print("1. Entregar una estadística del documento")
+            print("1. Entregar las estadísticas del documento")
             print("2. Buscar una palabra en el documento y las veces que esta repetida")
             print("3. Reemplazar una palabra en el texto.")
             print("4. Volver al menú.")
@@ -191,7 +191,7 @@ while not salir:
 
             opcion = numero()
             if opcion == 1:
-                print("1. Entregar una estadística del documento: \n")
+                print("1. Entregar las estadísticas del documento: \n")
                 opcion_1(nombre_libro)
             elif opcion == 2:
                 print(
@@ -212,7 +212,7 @@ while not salir:
         while not volver:
             print("Se seleccionó el libro 'Lazarillo de Tormes'")
             print("---------------------------------------------------------------------")
-            print("1. Entregar una estadística del documento")
+            print("1. Entregar las estadísticas del documento")
             print("2. Buscar una palabra en el documento y las veces que esta repetida")
             print("3. Reemplazar una palabra en el texto.")
             print("4. Volver al menú.")
@@ -221,7 +221,7 @@ while not salir:
 
             opcion = numero()
             if opcion == 1:
-                print("1. Entregar una estadística del documento: \n")
+                print("1. Entregar las estadísticas del documento: \n")
                 opcion_1(nombre_libro)
             elif opcion == 2:
                 print(
@@ -242,7 +242,7 @@ while not salir:
         while not volver:
             print("Se seleccionó el libro 'Para leer al atardecer'")
             print("---------------------------------------------------------------------")
-            print("1. Entregar una estadística del documento")
+            print("1. Entregar las estadísticas del documento")
             print("2. Buscar una palabra en el documento y las veces que esta repetida")
             print("3. Reemplazar una palabra en el texto.")
             print("4. Volver al menú.")
@@ -251,7 +251,7 @@ while not salir:
 
             opcion = numero()
             if opcion == 1:
-                print("1. Entregar una estadística del documento: \n")
+                print("1. Entregar las estadísticas del documento: \n")
                 opcion_1(nombre_libro)
             elif opcion == 2:
                 print(
@@ -272,7 +272,7 @@ while not salir:
         while not volver:
             print("Se seleccionó el libro 'Una corta historia del eBook'.")
             print("---------------------------------------------------------------------")
-            print("1. Entregar una estadística del documento")
+            print("1. Entregar las estadísticas del documento")
             print("2. Buscar una palabra en el documento y las veces que esta repetida")
             print("3. Reemplazar una palabra en el texto.")
             print("4. Volver al menú.")
@@ -281,7 +281,7 @@ while not salir:
 
             opcion = numero()
             if opcion == 1:
-                print("1. Entregar una estadística del documento: \n")
+                print("1. Entregar las estadísticas del documento: \n")
                 opcion_1(nombre_libro)
             elif opcion == 2:
                 print(
