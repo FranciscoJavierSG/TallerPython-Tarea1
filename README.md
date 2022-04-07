@@ -4,7 +4,7 @@
 Para usar el programa, abra la terminal, acceda al directorio donde está el proyecto e ingrese
 
 ```
-**python Tarea.py**
+python Tarea.py
 ```
 
 Al ejecutar el programa, se mostrará un menú con las opciones de libros disponibles.
