@@ -1,7 +1,11 @@
 # Taller de Python para Ciencias de Datos
 ## Tarea 1
 
-Para usar el programa, ejecute el archivo "Tarea.py".
+Para usar el programa, abra la terminal, acceda al directorio donde está el proyecto e ingrese
+
+```
+python Tarea.py
+
 
 Al ejecutar el programa, se mostrará un menú con las opciones de libros disponibles.
 Usted debe seleccionar una opción, lo que mostrará otro menú en donde podrá:
