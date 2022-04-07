@@ -1,8 +1,8 @@
 # Taller de Python para Ciencias de Datos
 
-*Autores: Cristofer Alarcón, Felipe Espinoza, Francisco Salazar*
-
 ## Tarea 1
+
+*Autores: Cristofer Alarcón, Felipe Espinoza, Francisco Salazar*
 
 Para ejecutar el programa, abra la terminal, acceda al directorio donde está el proyecto e ingrese el siguiente comando:
 
