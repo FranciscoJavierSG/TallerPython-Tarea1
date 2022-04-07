@@ -1,7 +1,16 @@
-# Menu
+# Tarea 1 - Taller de Python para Ciencias de Datos
+# Autores: Cristofer Alarcón, Felipe Espinoza, Francisco Salazar
+# Descripción del proyecto:
+# Este es un programa de lectura de archivos de texto con una codificación UTF-8. 
+# El programa tiene las siguientes funcionalidades:
+# · Se puede obtener una estadística del documento seleccionado.
+# · Buscar una palabra en el documento y mostrar cuántas veces se repite.
+# · Reemplazar una palabra en el documento.
+
 def opcion_1(nombre_libro):
 
     libro = open(nombre_libro, "rt", encoding="UTF-8")
+    print(type(libro))
 
     # Se retorna el puntero al inicio del archivo.
     libro.seek(0)
@@ -15,6 +24,7 @@ def opcion_1(nombre_libro):
     data = libro.read()
     palabras = data.split()
     print("Cantidad total de palabras:", len(palabras))
+    print(type(palabras))
 
     # Palabras no repetidas
     libro.seek(0)
