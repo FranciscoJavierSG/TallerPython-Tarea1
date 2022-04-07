@@ -14,3 +14,5 @@ Usted debe seleccionar una opción, lo que mostrará otro menú en donde podrá:
 - Reemplazar una palabra en el texto.
 
 Nota: Es necesario tener instalado Python 3.8.10 en su computador.
+
+Autores: Cristofer Alarcón, Felipe Espinoza, Francisco Salazar
