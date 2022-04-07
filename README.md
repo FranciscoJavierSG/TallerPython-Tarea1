@@ -1,6 +1,8 @@
 # Taller de Python para Ciencias de Datos
 ## Tarea 1
 
+Autores: Cristofer Alarcón, Felipe Espinoza, Francisco Salazar
+
 Para ejecutar el programa, abra la terminal, acceda al directorio donde está el proyecto e ingrese el siguiente comando:
 
 ```
@@ -14,5 +16,3 @@ Usted debe seleccionar una opción, lo que mostrará otro menú en donde podrá:
 - Reemplazar una palabra en el texto.
 
 Nota: Es necesario tener instalado Python 3.8.10 en su computador.
-
-Autores: Cristofer Alarcón, Felipe Espinoza, Francisco Salazar
